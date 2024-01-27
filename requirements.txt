@@ -1,0 +1,8 @@
+matplotlib==3.8.0
+numpy==1.26.3
+opencv_python==4.8.1.78
+Pillow==10.2.0
+prettytable==3.9.0
+torch==2.1.0
+torchvision==0.16.0
+tqdm==4.66.1
